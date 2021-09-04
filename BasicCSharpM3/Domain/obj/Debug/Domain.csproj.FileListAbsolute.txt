@@ -1,0 +1,30 @@
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\bin\Debug\Domain.dll
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\bin\Debug\Domain.pdb
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\obj\Debug\Domain.dll
+C:\Users\Roberto\source\repos\BasicCSharpM3\Domain\obj\Debug\Domain.pdb
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\bin\Debug\Domain.dll
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\bin\Debug\Domain.pdb
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\obj\Debug\Domain.dll
+C:\Users\Roberto\Downloads\BasicCSharpM3\Domain\obj\Debug\Domain.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\bin\Debug\Domain.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\bin\Debug\Domain.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\obj\Debug\Domain.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\obj\Debug\Domain.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\bin\Debug\Domain.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\bin\Debug\Domain.pdb
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\obj\Debug\Domain.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Domain\obj\Debug\Domain.pdb

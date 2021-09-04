@@ -1,0 +1,61 @@
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\source\repos\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\JADPA_12\Documents\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Downloads\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Documents\1M3\Programacion-I\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.deps.json
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Infraestructura.pdb
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CopyComplete
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.dll
+C:\Users\Roberto\Desktop\PROGRAMACION I\PROYECTO TAREA Y PROYECTO QUE VOY A PASAR\Programacion-I-main\BasicCSharpM3\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.pdb
